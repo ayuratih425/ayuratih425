@@ -18,14 +18,6 @@
 
 <img src="./assets/divider.svg" width="100%">
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,pandas,numpy,matplotlib,sql,postgres,django,flask,js,html,css,git,github,linux&perline=8" alt="Tech Stack">
-</p>
-
-<img src="./assets/divider.svg" width="100%">
-
 ## GitHub Statistics
 
 <p align="center">
