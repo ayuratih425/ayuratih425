@@ -1,0 +1,22 @@
+<svg width="900" height="86" viewBox="0 0 900 86" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panel" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#1c2129"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#2f81f7" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#2f81f7" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#2f81f7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="86" fill="url(#panel)" rx="8"/>
+  <rect x="0" y="0" width="900" height="2" fill="url(#rule)"/>
+
+  <text x="450" y="42" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif"
+    font-size="14" font-weight="600" letter-spacing="1.5" fill="#e6edf3">Terima kasih telah membaca.</text>
+
+  <text x="450" y="64" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif"
+    font-size="11.5" letter-spacing="1.5" fill="#8b949e">ayuratih425 · Data Analyst &amp; Python Developer</text>
+</svg>

@@ -1,0 +1,5 @@
+<svg width="467" height="195" viewBox="0 0 467 195" xmlns="http://www.w3.org/2000/svg">
+  <rect width="467" height="195" fill="#161b22" rx="8"/>
+  <text x="233" y="92" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Metrics belum aktif</text>
+  <text x="233" y="112" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#58a6ff">Jalankan workflow &quot;GitHub Metrics&quot; di tab Actions</text>
+</svg>
