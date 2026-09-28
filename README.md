@@ -21,12 +21,8 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayuratih425&show_icons=true&theme=dark&bg_color=161b22&title_color=58a6ff&icon_color=2f81f7&text_color=e6edf3&border_color=30363d&hide_border=true" alt="GitHub Stats">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuratih425&layout=compact&theme=dark&bg_color=161b22&title_color=58a6ff&text_color=e6edf3&border_color=30363d&hide_border=true" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayuratih425&theme=dark&background=161b22&ring=30363d&fire=2f81f7&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&border=30363d&hide_border=false" alt="GitHub Streak">
+  <img width="49%" src="./metrics/stats.svg" alt="GitHub Stats">
+  <img width="49%" src="./metrics/languages.svg" alt="Top Languages">
 </p>
 
 <img src="./assets/divider.svg" width="100%">
@@ -34,21 +30,15 @@
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayuratih425&bg_color=161b22&color=2f81f7&line=58a6ff&point=e6edf3&area=true&area_color=1f6feb&hide_border=true" width="100%" alt="Contribution Graph">
+  <img src="./metrics/activity.svg" width="100%" alt="Contribution Graph">
 </p>
 
 <img src="./assets/divider.svg" width="100%">
 
-## Metrics
+## GitHub Streak
 
 <p align="center">
-  <img width="49%" src="./metrics/coding.svg" alt="Coding Activity">
-  <img width="49%" src="./metrics/activity.svg" alt="Activity">
-</p>
-
-<p align="center">
-  <img width="49%" src="./metrics/repositories.svg" alt="Repositories">
-  <img width="49%" src="./metrics/stars.svg" alt="Stars">
+  <img src="./metrics/streak.svg" width="100%" alt="GitHub Streak">
 </p>
 
 <img src="./assets/divider.svg" width="100%">
